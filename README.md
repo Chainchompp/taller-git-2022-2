@@ -4,3 +4,7 @@ Taller de git nixvoid
 ## Expositor
 
 Giro
+
+## Horario
+
+6 pm a 7 pm
